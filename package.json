@@ -1,0 +1,23 @@
+{
+  "name": "tsumiko",
+  "version": "1.1.0",
+  "description": "Tea-Testnet Project test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ridhocatur/tsumiko"
+  },
+  "author": "soratatsumiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridhocatur/tsumiko/issues"
+  },
+  "homepage": "https://github.com/ridhocatur/tsumiko#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
