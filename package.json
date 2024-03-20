@@ -1,6 +1,6 @@
 {
   "name": "tsumiko",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "description": "Tea-Testnet Project test",
   "main": "index.js",
   "scripts": {
